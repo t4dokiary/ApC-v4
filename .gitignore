@@ -1,0 +1,8 @@
+examples/
+venv/
+__pycache__/
+output/
+putput_frames/
+video_salida.avi
+index.md
+example
