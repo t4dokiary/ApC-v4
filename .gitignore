@@ -2,7 +2,7 @@ examples/
 venv/
 __pycache__/
 output/
-putput_frames/
+output_frames/
 video_salida.avi
 index.md
 example
